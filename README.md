@@ -1,2 +1,2 @@
 # HalloweenAccuracyTrainer
-A fun way to practice your aim and also get in the Halloween spirit!
+A fun way to practice your accuracy and also get in the Halloween spirit!
