@@ -15,7 +15,7 @@ public class hitControl : MonoBehaviour
     private List<GameObject> targets = new List<GameObject>();
 
     [SerializeField]
-    public int numTargets = 5;
+    public int numTargets = 3;
 
     private float height;
     private float width;
